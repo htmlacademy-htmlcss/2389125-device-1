@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Дмитрий Ужахов](https://up.htmlacademy.ru/htmlcss-individual/1/user/2389125).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Ефимов] (https://htmlacademy.ru/profile/efiand)
 
 ---
 
